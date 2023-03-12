@@ -1,18 +1,8 @@
 # AI.RED
 <p align="center">
-	<img src="pics/header.png">
+	<img src="https://w0.peakpx.com/wallpaper/292/522/HD-wallpaper-landscape-lines-3d-abstract-art-black-curves-dark-minimal-soft.jpg" height="720" width="1920"> 
 </p>
 
-<p align="center">
-
-	<a href="mailto:ryforair@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-</p>
-
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=amankr1619&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
 
 ## 👨🏻‍💻 &nbsp;About Me:
 
@@ -51,31 +41,5 @@ me.</p>
 
 ## 📈 Statistics
 
-<br/>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amankrx&count_private=true&theme=dark&show_icons=true" alt="amankrx" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amankrx&hide_border=true&theme=dark&show_icons=true" />
-</p>
 
-<p align="center">
-	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=amankr1619&theme=dark&show_icons=true" alt="amankr1619" />
-</p>
 
-<hr />
-
-## 📕 Pinned Repositories
-
-<p align="center">
-	<a href="https://github.com/amankrx/Health">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=Health&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-	<a href="https://github.com/amankrx/portfolio">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=portfolio&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-	<a href="https://github.com/amankrx/amankrx">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=amankrx&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-	<a href="https://github.com/amankrx/Healthsy">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=Healthsy&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-</p>
