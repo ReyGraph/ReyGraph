@@ -4,13 +4,8 @@
 </p>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/amankrx/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-  <a href="https://gitlab.gnome.org/amankrx/">
-		<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-	</a>
-	<a href="mailto:amankr1619@gmail.com">
+
+	<a href="mailto:ryforair@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
@@ -21,14 +16,14 @@
 
 ## 👨🏻‍💻 &nbsp;About Me:
 
-<p>🗯️ &nbsp;I’m currently looking for an Entry/Junior level Software Development or Rust Development role or an internship in the same field.</p>
-<p>❄️ &nbsp;I’m currently learning Blockchain, STARKs, zk-proofs, Substrate and working on projects with Rust.</p>
-<p>🎓 &nbsp;I'm currently a final year undergraduate studying Computer Science Engineering at <a href = "https://iiitn.ac.in/">IIIT Nagpur</a>.</p>
-<p>🔭 &nbsp;I’ve previously worked as a Google Summer of Code Intern at <a href="https://www.gnome.org/">GNOME Organization</a> and as a Backend Developer for Nametrade.</p>
+<p>🗯️ &nbsp;I’m Ryfor, A Developer, I make AI, Websites and more!.</p>
+<p>❄️ &nbsp;I’m currently learning C#, Python, ElectronJs, html and working on projects with Rust.</p>
+<p>🎓 &nbsp;I make games, and help others, im currently working in a game development Team</a>.</p>
+Nametrade.</p>
 <p>💡 &nbsp;I like to solve algorithmic problems or work on my side project during my free time.</p>
 <p>🌱 &nbsp;I'm on track for learning more about Blockchain, Rust, and get into Open Source.</p>
 <p>💬 &nbsp;Feel free to reach out to me for work opportunities or working alogside a project.</p>
-<p>🧩 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1kf_H6cOm7AcuRvEcbExztr9ie5qTGeiL/view?usp=sharing">Résumé</a> for more details about me.</p>
+me.</p>
 
 <br />
 
