@@ -8,7 +8,7 @@
 
 <p>🗯️ &nbsp;I’m Ryfor, A Developer, I make AI, Websites and more!.</p>
 <p>❄️ &nbsp;I’m currently learning C#, Python, ElectronJs, html and working on projects with Rust.</p>
-<p>🎓 &nbsp;MY Discord ID - Ryfor#9247</a>.</p>
+<p>🎓 &nbsp;My Discord ID - Ryfor#9247</a>.</p>
 <p>💡 &nbsp;I like to solve algorithmic problems or work on my side project during my free time.</p>
 <p>🌱 &nbsp;I'm on track for learning more about Blockchain, Rust, and get into Open Source.</p>
 <p>💬 &nbsp;Feel free to reach out to me for work opportunities or working alongside a project.</p>
