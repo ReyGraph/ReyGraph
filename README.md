@@ -1,11 +1,9 @@
 # **RYFOR | Founder of Ravolin**
 
-<p align="center">
-  <img src="https://w0.peakpx.com/wallpaper/292/522/HD-wallpaper-landscape-lines-3d-abstract-art-black-curves-dark-minimal-soft.jpg" height="300" style="border-radius: 15px;">
-</p>
+---
 
-<h1 align="center">Hey there, I’m Ryfor! ⭘</h1>
-<h3 align="center">Founder of <a href="https://ravolin.com" target="_blank">Ravolin</a>, where innovation and software meet excellence.</h3>
+## **Hey there, I’m Ryfor! ⭘**
+Founder of [Ravolin](https://ravolin.com), where innovation and software meet excellence.
 
 ---
 
@@ -18,14 +16,14 @@
 
 ## ▞ **What I Work With**
 
-### ⭙ **Languages**  
-`TypeScript` `Python` `Ruby` `JavaScript` `Java` `C++` `C#`
+### ⭙ **Languages**
+`TypeScript`, `Python`, `Ruby`, `JavaScript`, `Java`, `C++`, `C#`
 
-### ⭡ **Frameworks & Tools**  
-`React` `Next.js` `Tailwind CSS` `Node.js` `Flutter`
+### ⭡ **Frameworks & Tools**
+`React`, `Next.js`, `Tailwind CSS`, `Node.js`, `Flutter`
 
-### ⭜ **Game Engines**  
-`Unity` `Unreal Engine`
+### ⭜ **Game Engines**
+`Unity`, `Unreal Engine`
 
 ---
 
@@ -35,19 +33,19 @@
 ---
 
 ## ⬟ **About Ravolin**  
-Ravolin is a **leading edge software development company** redefining innovation. From web applications to advanced tools, we’re a team driven by creativity and expertise. Our solutions are built to empower individuals, businesses, and developers alike. Explore our work at [Ravolin.com](https://ravolin.com).  
+Ravolin is a **leading-edge software development company** redefining innovation. From web applications to advanced tools, we’re a team driven by creativity and expertise. Our solutions are built to empower individuals, businesses, and developers alike. Explore our work at [Ravolin.com](https://ravolin.com).
 
 ---
 
 ## ⨳ **What’s New at Ravolin?**  
 **🔍 Explore our latest:**  
 ⭔ **XOUR**, our powerful tool to unlock distraction-free productivity and streamlined workflows, exclusively at [Ravolin’s Projects](https://ravolin.com/#projects).  
-⭔ Our team is also working on smarter local first systems, knowledge tracking, and seamless exportable solutions.  
+⭔ Our team is also working on smarter local-first systems, knowledge tracking, and seamless exportable solutions.
 
 ---
 
 ## ␥ **Let’s Connect**
 ⇢ **Discord**: **ryfor**  
-⇢ **Instagram**: [ryforair](https://instagram.com/ryforair)  
+⇢ **Instagram**: [ryforair](https://instagram.com/ryforair)
 
 Feel free to connect with me if you have questions, ideas, or just want to know more about what we’re building at Ravolin. Always happy to chat!
