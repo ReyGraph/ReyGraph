@@ -1,51 +1,48 @@
-# **RYFOR | Founder of Ravolin**
+### **Ryfor | Founder of Ravolin**
+
+I am **Ryfor**, Founder of [Ravolin](https://ravolin.com), a company committed to pushing boundaries through innovation and technology. My role is to ensure we deliver efficient, scalable solutions to today’s problems, and lead my team in building the future of software.
+
+Reach me on **[Discord](https://discord.com/users/ryfor)** if you'd like to discuss projects, tech, or the future of software development.
 
 ---
 
-## **Hey there, I’m Ryfor! ⭘**
-Founder of [Ravolin](https://ravolin.com), where innovation and software meet excellence.
+### **Current Focus**
+
+- **Technology**: Continuously developing scalable, high-performance systems to support future growth.
+- **Web Development**: Crafting seamless, intuitive experiences with modern frameworks like React, Next.js, and Tailwind CSS.
+- **Game Engines**: Pushing the limits with Unity and Unreal Engine, creating immersive worlds and experiences.
 
 ---
 
-## ⇣ **Who am I?**
-⫸ **Programmer** | Crafting clean, efficient solutions for modern challenges  
-⫸ **Founder** | Leading Ravolin's dynamic team of innovators in shaping the future of software  
-⫸ **Builder** | Passionate about developing tools, web apps, and game engines that push boundaries  
+## **Specialization**  
+
+| D | E | S | I | G | N | || C | O | D | E |
+| - | - | - | - | - | - | - | - | - | - | - |
+| | | `T` | `A` | `B` | `L` | `E` | | `L` | `A` | `B` |
+| `S` | `C` | `A` | `L` | `A` | `B` | `I` | `L` | `I` | `T` | `Y` |
+| | | `T` | `E` | `C` | `H` | `N` | `O` | `L` | `O` | `G` |
+| `P` | `R` | `O` | `G` | `R` | `A` | `M` | `M` | `I` | `N` | `G` |
+| | | `D` | `E` | `V` | `E` | `L` | `O` | `P` | `M` | `E` |
+| | `G` | `A` | `M` | `I` | `N` | `G` | `E` | `X` | `P` | `A` |
 
 ---
 
-## ▞ **What I Work With**
+## **Technologies I'm Working With**
 
-### ⭙ **Languages**
-`TypeScript`, `Python`, `Ruby`, `JavaScript`, `Java`, `C++`, `C#`
+**Languages**:  
+`TypeScript`, `JavaScript`, `Python`, `Ruby`, `C++`, `Java`, `C#`
 
-### ⭡ **Frameworks & Tools**
+**Frameworks & Tools**:  
 `React`, `Next.js`, `Tailwind CSS`, `Node.js`, `Flutter`
 
-### ⭜ **Game Engines**
+**Game Engines**:  
 `Unity`, `Unreal Engine`
 
 ---
 
-## ⬙ **Fun Fact**  
-**I own you.**
+## **Stay Connected**
 
----
+- **Discord**: **ryfor**  
+- **Instagram**: [ryforair](https://instagram.com/ryforair)  
 
-## ⬟ **About Ravolin**  
-Ravolin is a **leading-edge software development company** redefining innovation. From web applications to advanced tools, we’re a team driven by creativity and expertise. Our solutions are built to empower individuals, businesses, and developers alike. Explore our work at [Ravolin.com](https://ravolin.com).
-
----
-
-## ⨳ **What’s New at Ravolin?**  
-**🔍 Explore our latest:**  
-⭔ **XOUR**, our powerful tool to unlock distraction-free productivity and streamlined workflows, exclusively at [Ravolin’s Projects](https://ravolin.com/#projects).  
-⭔ Our team is also working on smarter local-first systems, knowledge tracking, and seamless exportable solutions.
-
----
-
-## ␥ **Let’s Connect**
-⇢ **Discord**: **ryfor**  
-⇢ **Instagram**: [ryforair](https://instagram.com/ryforair)
-
-Feel free to connect with me if you have questions, ideas, or just want to know more about what we’re building at Ravolin. Always happy to chat!
+Feel free to reach out for collaboration, advice, or a conversation about the future of tech. I’m always open to new ideas.
