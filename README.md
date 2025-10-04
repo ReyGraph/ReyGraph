@@ -1,7 +1,6 @@
-╔═════════════════════════════════╗
+
 ║          the.mecha              ║
 ║ Founder @ Ravolin & Hushby Pods ║
-╚═════════════════════════════════╝
 
 > **the.mecha**  
 > Building playful software + systems that actually feel alive.
