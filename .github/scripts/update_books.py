@@ -9,12 +9,12 @@ readme_file = "README.md"
 with open(books_file, "r", encoding="utf-8") as f:
     books = json.load(f)
 
-# Securely set added_by to the PR author
+# Securely set added_by to PR author
 pr_author = os.environ.get("GITHUB_ACTOR", "unknown")
 for book in books:
     book["added_by"] = pr_author
 
-# Generate Markdown
+# Generate Markdown for README
 books_md = "<details>\n<summary>Expand to see books</summary>\n\n"
 for book in books:
     books_md += f"- **{book['title']}** — {book['author']}  _(added by @{book['added_by']})_\n"
