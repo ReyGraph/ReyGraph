@@ -1,38 +1,66 @@
-# **Ryfor | Founder of Ravolin**
+# ⚡ the.mecha
 
-Hey! I’m **Ryfor**, Founder of [Ravolin](https://ravolin.com). We solve modern problems with innovative software solutions, creating tools that empower developers and businesses. Feel free to reach out on [Discord](https://discord.com/users/ryfor) if you want to chat about tech or just connect.
+Founder @ravolin.labs & @hushby.pods  
 
----
-
-## **Current Focus:**
-
-| C | O | D | E | &nbsp; | I | N | N | O | V | A | T | I | O | N |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| `T` | `S` | `T` | `E` | `A` | `M` | `W` | `E` | `B` | `D` | `E` | `V` | `E` | `L` | `O` |
-| `P` | `R` | `O` | `G` | `R` | `A` | `M` | `M` | `I` | `N` | `G` | `G` | `A` | `M` | `E` |
-| `S` | `Y` | `S` | `T` | `E` | `M` | `S` | `D` | `E` | `V` | `E` | `L` | `O` | `P` | `E` |
-| `D` | `A` | `T` | `A` | `B` | `A` | `S` | `E` | `S` | `A` | `P` | `P` | `L` | `I` | `C` |
-| `C` | `O` | `N` | `S` | `O` | `L` | `I` | `D` | `S` | `U` | `B` | `S` | `C` | `R` | `I` |
+Building software, web apps, games, and developer communities.  
+Portfolio under construction 🚧
 
 ---
 
-## **Technologies & Tools**  
-`TypeScript`, `JavaScript`, `C#`, `C++`, `Python`  
-`React`, `Next.js`, `Node.js`, `Tailwind CSS`, `Flutter`  
-`Unity`, `Unreal Engine`, `Game Engines`
+## 🛠️ Skills & Tools
+
+**Web & Software Development:**  
+Next.js, React, Node.js, TypeScript, Tailwind CSS, Python, C++, C#
+
+**Game Development:**  
+Unity, Unreal Engine, real-time simulations
+
+**Design & Prototyping:**  
+Framer, modular UI/UX patterns, rapid prototyping
+
+**APIs & Backend:**  
+RESTful APIs, GraphQL, serverless architectures, cloud services
+
+**Automation & Workflows:**  
+Custom scripts, CI/CD pipelines, GitHub Actions
 
 ---
 
-## **Ongoing Projects at Ravolin**
+## 📚 Books That Shape My Thinking
 
-- **XOUR**: A smarter way to track knowledge and stay productive.  
-- Seamless systems for developers to improve workflows and personal projects.
+<details>
+<summary>Expand to see books</summary>
+
+- The Minimalist Entrepreneur — Sahil Lavingia  
+  *Practical blueprint for lean, profitable, audience-first businesses.*
+
+- Traction — Gabriel Weinberg & Justin Mares  
+  *Tactical growth channels and systematic scaling.*
+
+- The Psychology of Money — Morgan Housel  
+  *Mindset for keeping and growing wealth.*
+
+- How to Make Money in Stocks — William J. O’Neil  
+  *Practical CANSLIM method for identifying high-growth stocks.*
+
+- The Cold Start Problem — Andrew Chen  
+  *Real-world network effect strategies for growing products from 0 users.*
+
+</details>
+
+**Contributing Books:**  
+1. Fork the repository.  
+2. Add your book + one-line reason to `books.json` (or designated source file).  
+3. Submit a Pull Request — once merged, GitHub Actions will automatically update the README.  
 
 ---
 
-## **Connect with Me**  
+`🧠 About Ravolin`
 
-- **Discord**: [ryfor](https://discord.com/users/ryfor)  
-- **Instagram**: [ryforair](https://instagram.com/ryforair)  
+`Ravolin is a startup and developer community building **web apps, software, games, and scalable systems**.  
+We focus on **rapid prototyping, user-centered design, and real-world solutions.`
 
-Feel free to get in touch. Whether you have ideas, feedback, or just want to talk tech, I’m always open to a chat!
+`🛟 About Hushby Pods`
+
+`Hushby Pods are modular, floating pods** designed for **unique experiential environments think private spaces in backwaters, designed for comfort, interaction, and innovation. Currently in development, the project combines **architecture, engineering, and user experience** in a single system.`
+
