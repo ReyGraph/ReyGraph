@@ -52,7 +52,7 @@ Now       : Coding, breaking, fixing
 ---
 
 ## 📚 Books That Shape My Thinking
-
+<!-- BOOKS-START -->
 <details>
 <summary>Expand to see books</summary>
 
@@ -63,6 +63,7 @@ Now       : Coding, breaking, fixing
 - **The Cold Start Problem** — Andrew Chen  
 
 </details>
+<!-- BOOKS-END -->
 
 **Contributing Books:**  
 Fork → edit `books.json` → PR → GitHub Actions updates README automatically.
