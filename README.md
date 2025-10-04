@@ -2,27 +2,43 @@
 
 Founder @ravolin.labs & @hushby.pods  
 
-Building software, web apps, games, and developer communities.  
+Building **software, web apps, games**, and fostering **developer communities**.  
 Portfolio under construction 🚧
 
 ---
 
 ## 🛠️ Skills & Tools
 
-**Web & Software Development:**  
-Next.js, React, Node.js, TypeScript, Tailwind CSS, Python, C++, C#
+**Web & Software:**  
+<span style="background:#1f2937; color:#fff; padding:2px 6px; border-radius:4px;">Next.js</span>  
+<span style="background:#1f2937; color:#fff; padding:2px 6px; border-radius:4px;">React</span>  
+<span style="background:#1f2937; color:#fff; padding:2px 6px; border-radius:4px;">Node.js</span>  
+<span style="background:#1f2937; color:#fff; padding:2px 6px; border-radius:4px;">TypeScript</span>  
+<span style="background:#1f2937; color:#fff; padding:2px 6px; border-radius:4px;">Tailwind CSS</span>  
+<span style="background:#1f2937; color:#fff; padding:2px 6px; border-radius:4px;">Python</span>  
+<span style="background:#1f2937; color:#fff; padding:2px 6px; border-radius:4px;">C++</span>  
+<span style="background:#1f2937; color:#fff; padding:2px 6px; border-radius:4px;">C#</span>
 
 **Game Development:**  
-Unity, Unreal Engine, real-time simulations
+<span style="background:#111827; color:#fff; padding:2px 6px; border-radius:4px;">Unity</span>  
+<span style="background:#111827; color:#fff; padding:2px 6px; border-radius:4px;">Unreal Engine</span>  
+<span style="background:#111827; color:#fff; padding:2px 6px; border-radius:4px;">Real-time Simulations</span>
 
 **Design & Prototyping:**  
-Framer, modular UI/UX patterns, rapid prototyping
+<span style="background:#1e40af; color:#fff; padding:2px 6px; border-radius:4px;">Framer</span>  
+<span style="background:#1e40af; color:#fff; padding:2px 6px; border-radius:4px;">Modular UI/UX</span>  
+<span style="background:#1e40af; color:#fff; padding:2px 6px; border-radius:4px;">Rapid Prototyping</span>
 
 **APIs & Backend:**  
-RESTful APIs, GraphQL, serverless architectures, cloud services
+<span style="background:#065f46; color:#fff; padding:2px 6px; border-radius:4px;">REST</span>  
+<span style="background:#065f46; color:#fff; padding:2px 6px; border-radius:4px;">GraphQL</span>  
+<span style="background:#065f46; color:#fff; padding:2px 6px; border-radius:4px;">Serverless</span>  
+<span style="background:#065f46; color:#fff; padding:2px 6px; border-radius:4px;">Cloud Services</span>
 
 **Automation & Workflows:**  
-Custom scripts, CI/CD pipelines, GitHub Actions
+<span style="background:#f59e0b; color:#111; padding:2px 6px; border-radius:4px;">Custom Scripts</span>  
+<span style="background:#f59e0b; color:#111; padding:2px 6px; border-radius:4px;">CI/CD Pipelines</span>  
+<span style="background:#f59e0b; color:#111; padding:2px 6px; border-radius:4px;">GitHub Actions</span>
 
 ---
 
@@ -31,36 +47,38 @@ Custom scripts, CI/CD pipelines, GitHub Actions
 <details>
 <summary>Expand to see books</summary>
 
-- The Minimalist Entrepreneur — Sahil Lavingia  
+- **The Minimalist Entrepreneur** — Sahil Lavingia  
   *Practical blueprint for lean, profitable, audience-first businesses.*
 
-- Traction — Gabriel Weinberg & Justin Mares  
+- **Traction** — Gabriel Weinberg & Justin Mares  
   *Tactical growth channels and systematic scaling.*
 
-- The Psychology of Money — Morgan Housel  
+- **The Psychology of Money** — Morgan Housel  
   *Mindset for keeping and growing wealth.*
 
-- How to Make Money in Stocks — William J. O’Neil  
+- **How to Make Money in Stocks** — William J. O’Neil  
   *Practical CANSLIM method for identifying high-growth stocks.*
 
-- The Cold Start Problem — Andrew Chen  
+- **The Cold Start Problem** — Andrew Chen  
   *Real-world network effect strategies for growing products from 0 users.*
 
 </details>
 
-**Contributing Books:**  
-1. Fork the repository.  
-2. Add your book + one-line reason to `books.json` (or designated source file).  
-3. Submit a Pull Request — once merged, GitHub Actions will automatically update the README.  
+**Contributing Books:** Fork → edit `books.json` → submit PR. GitHub Actions will update the README automatically.
 
 ---
 
-`🧠 About Ravolin`
+## 🧠 About Ravolin
 
-`Ravolin is a startup and developer community building **web apps, software, games, and scalable systems**.  
-We focus on **rapid prototyping, user-centered design, and real-world solutions.`
+**Ravolin** is a **startup + dev community** building **web apps, software, games, and scalable systems**.  
+We focus on **rapid prototyping, user-centered design, and real-world solutions**.
 
-`🛟 About Hushby Pods`
+---
 
-`Hushby Pods are modular, floating pods** designed for **unique experiential environments think private spaces in backwaters, designed for comfort, interaction, and innovation. Currently in development, the project combines **architecture, engineering, and user experience** in a single system.`
+## 🛟 About Hushby Pods
+
+**Hushby®** — World's first **floating couple capsules** designed for **private nights on rivers and backwaters**, stargazing, candlelight dinners, and unforgettable escapes.  
+Currently in development, combining **architecture, engineering, and user experience**.
+
+---
 
