@@ -39,7 +39,7 @@ Now       : Coding, breaking, fixing
 - All systems are designed to **scale quickly** without sacrificing simplicity.  
 - I avoid over-engineering; every module serves a measurable purpose.  
 - Build only if it doesn’t exist; validate before coding.  
-- Experiments > theory — mistakes are lessons.  
+- Experiments > theory  > mistakes are lessons.  
 
 ---
 
