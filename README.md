@@ -1,4 +1,4 @@
-Mecha here! Founder @ Ravolin & Hushby Pods 
+Mecha here! Founder @mentasm.in & @pivotical
 
 > **the.mecha**  
 > Building software + systems that actually feel alive.
@@ -9,13 +9,13 @@ Mecha here! Founder @ Ravolin & Hushby Pods
 ```
 Alias     : the.mecha
 Known as  : Ryfor (elsewhere)
-Mood      : Creating at Ravolin
-Now       : Coding, breaking, fixing
+Mood      : Creating at Pivotical
+Now       : Coding... breaking, and dying.
 ```
 
 ---
 
-## 🔧 Tech Arsenal
+## 🔧 Tech 
 ```
 ⚙️ Languages  → TypeScript · C++ · Python · C#
 🎨 Frontend   → React · Next.js · Tailwind
@@ -27,8 +27,9 @@ Now       : Coding, breaking, fixing
 
 ## 📜 Changelog (Me, not code)
 ```
-2025 → Full-time on Ravolin, prepping Hushby Pods, scholarships in German Uni
-2024 → Personal skill growth, UI/UX, front-end & back-end dev, Python/React certs, hackathons
+2026 → Pivotical - Launching Soon
+2025 → Full-time on Ravolin, prepping Mentasm, Prepping for Scholarships
+2024 → Personal skill growth, UI/UX, front-end & back-end dev, Python/React certs, hackathons, 
 2023 → Game jams, AI/LLM experiments, indie dev experiments
 2022 → i legit forgor
 ```
@@ -44,10 +45,12 @@ Now       : Coding, breaking, fixing
 ---
 
 ## 🛟 Projects
-**Ravolin** → Developer community + startup building **web apps, software, games, and systems**.  
-**Hushby® Pods** → World's first **floating couple capsules** for rivers & backwaters, stargazing, candlelight, escapes.  
+**Ravolin** → Developer community + startup building **web apps, software, games, and systems**.
+**Mentasm**  →  Mentasm connects you with the 1% who’ve lived your exact struggle whether it’s startup failure, career pivots, or leadership burnout without therapy or coaching. It matches you to mentors based on the specific phase of your journey, ensuring real lived experience, not just advice.
+**Pivotical**  → Launching Soon.
 
-> Both in active development. Systems are **modular, scalable, and playful**.
+
+> 2 in active development. Systems are **modular, scalable, and playful**.
 
 ---
 
