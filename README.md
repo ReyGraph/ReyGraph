@@ -10,7 +10,7 @@ Mecha here! Founder @mentasm.in & @pivotical
 Alias     : the.mecha
 Known as  : Ryfor (elsewhere)
 Mood      : Creating at Pivotical
-Now       : Coding... breaking, and dying.
+Now       : A lot, idk what to put here rn.
 ```
 
 ---
