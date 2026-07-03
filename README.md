@@ -36,13 +36,6 @@ Now       : Coding... breaking, and dying.
 
 ---
 
-## 🛠️ Philosophy & Approach
-- All systems are designed to **scale quickly** without sacrificing simplicity.  
-- I avoid over-engineering; every module serves a measurable purpose.  
-- Build only if it doesn’t exist; validate before coding.  
-- Experiments > theory  > mistakes are lessons.  
-
----
 
 ## 🛟 Projects
 **Ravolin** → Developer community + startup building **web apps, software, games, and systems**.
