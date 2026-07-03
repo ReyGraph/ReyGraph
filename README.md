@@ -46,6 +46,7 @@ Now       : Coding... breaking, and dying.
 
 ## 🛟 Projects
 **Ravolin** → Developer community + startup building **web apps, software, games, and systems**.
+
 **Mentasm**  →  Mentasm connects you with the 1% who’ve lived your exact struggle whether it’s startup failure, career pivots, or leadership burnout without therapy or coaching. It matches you to mentors based on the specific phase of your journey, ensuring real lived experience, not just advice.
 **Pivotical**  → Launching Soon.
 
