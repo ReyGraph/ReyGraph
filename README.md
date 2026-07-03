@@ -52,7 +52,7 @@ Now       : Coding... breaking, and dying.
 **Pivotical**  → Launching Soon.
 
 
-> 2 in active development. Systems are **modular, scalable, and playful**.
+> 2 in active development. Systems are **modular & scalable.**.
 
 ---
 
